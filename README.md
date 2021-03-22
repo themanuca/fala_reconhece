@@ -1,2 +1,3 @@
-# fala_reconhece
+# Reconhecedor de fala
+
 Reconhecedor de fala
